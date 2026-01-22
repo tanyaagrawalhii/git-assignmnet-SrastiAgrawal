@@ -1,0 +1,3 @@
+- I learned how git add stages files before committing.
+- I learned that git commit saves changes with a message.
+- I learned how branching helps in working on features separately.
